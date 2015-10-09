@@ -1,6 +1,7 @@
 # Prototype B: TCP Client and Server (TCP伺服器與客戶端雛形)
 ============================================================
 Spec: 請寫出一個 TCP Client 與多執行緒的 TCP Server
+
 1. 實作一個concurrent server，必須能同時接收2個connections
 2. 當接到一個connection時，在螢幕上印出該connection的來源，並保持connection連通
 3. 當2個connection連接完成時，Server行為如下。請假設有3個寶物 A, B, C由Server所控管

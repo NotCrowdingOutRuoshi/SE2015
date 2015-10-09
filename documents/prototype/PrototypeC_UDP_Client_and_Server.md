@@ -1,6 +1,7 @@
 # Prototype C: UDP Client and Server (UDP伺服器與客戶端雛形)
 ============================================================
 Spec: 請寫出一個 TCP Client 與一個 TCP Server
+
 1. Client行為
 	1. 執行後，等待使用者輸入兩個IP，分別代表本機及Server
 	2. 輸入完成後，假設此client維持一個移動中物體的座標(x, y)
